@@ -1,0 +1,20 @@
+body {
+  background-color:	#f6f6f6;
+}
+h1 {
+  color: 	#a92323;font-size:75px;
+  font-family: 'Luminari ', Fantasy;
+}
+h2 {
+  color: #b6b19b;font-size:40px;
+  font-family: 'Luminari ', Fantasy;
+}
+h3 {
+  color: 		#fd4347;font-size:20px;
+  font-family: 'Luminari ', Fantasy;
+}
+p {
+  color: 	#a92323;
+
+  line-height: 1.9;
+font-family: 'Courier New', monospace;

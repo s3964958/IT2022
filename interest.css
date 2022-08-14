@@ -1,0 +1,29 @@
+body {
+  background-color:	#e5e3cb;
+}
+h1 {
+  color: 	#253550;font-size:75px;
+  font-family: 'Garamond ', monospace;
+  text-align: center;
+
+}
+h2 {
+  color: 	#253550;font-size:40px;
+  font-family: 'Garamond ', monospace;
+}
+h3 {
+  color: 	#253550;font-size:30px;
+  font-family: 'Garamond ', monospace;
+  text-align:center;
+}
+p {
+  color: 	#20124d;
+  font-size:15px;
+  background:		#fafafb;
+  line-height: 2;
+  font-family: 'Garamond', monospace;
+
+}
+img{
+  float: right;
+}
