@@ -1,0 +1,27 @@
+body {
+  background-color:		#7faf6a;
+}
+h1 {
+  color: 		#242424;font-size:100px;
+  font-family: 'Optima', sans-sans-serif; text-align:center;
+}
+h2 {
+  color: #b6b19b;font-size:40px;
+  font-family: 'Courier New', monospace;
+}
+h3 {
+  color: 		#f6f6f6;font-size:40px;
+  font-family: 'Optima', sans-sans-serif; text-align:center;
+    background:		#43574e;
+
+}
+p {
+  color: 		#242424;
+  background:	#f6f6f6;
+  line-height: 1.9;
+  font-family: 'Optima', sans-sans-serif;
+
+}
+img{
+  float: left;
+}
